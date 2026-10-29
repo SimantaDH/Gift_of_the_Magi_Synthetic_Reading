@@ -1,0 +1,9 @@
+LLM EXTRACTION — VERIFICATION AGAINST THE CORPUS
+Items extracted: 127   Found verbatim: 127 (100%)   Not found: 0
+Items marked x are not in the text as written. Correct or remove them
+(or keep them deliberately as interpretive labels and say so in the README).
+
+## quantification_money: 31 verbatim, 0 NOT FOUND
+## commodity_exchange: 20 verbatim, 0 NOT FOUND
+## treasure_possession: 29 verbatim, 0 NOT FOUND
+## gift_sacrifice_affect: 47 verbatim, 0 NOT FOUND

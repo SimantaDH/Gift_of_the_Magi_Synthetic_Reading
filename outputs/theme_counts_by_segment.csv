@@ -1,0 +1,13 @@
+theme,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+MONEY: Scarcity / Counting (I),6,2,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+COMMODITY: Scarcity / Counting (I),4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TREASURE: Scarcity / Counting (I),0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GIFT: Scarcity / Counting (I),2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONEY: Commodification / Sale (II),0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0
+COMMODITY: Commodification / Sale (II),0,0,0,0,0,0,3,1,1,0,0,1,1,2,0,0,0,0,1,0
+TREASURE: Commodification / Sale (II),0,0,0,0,2,5,0,0,2,0,0,0,0,0,0,0,0,0,0,1
+GIFT: Commodification / Sale (II),0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+MONEY: Revaluation / Gift (III),0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+COMMODITY: Revaluation / Gift (III),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+TREASURE: Revaluation / Gift (III),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+GIFT: Revaluation / Gift (III),0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,2,0,0,5,9

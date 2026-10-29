@@ -1,0 +1,51 @@
+PARTIAL READING
+
+Text: “The Gift of the Magi” by O. Henry (1905), Project Gutenberg eBook #7256
+Unit of reading: sentence (“line”). Total sentences: 153
+Division: 3 equal parts; 20% of the sentences read from each part
+Selection strategy per part: first, random, last (random seed = 42)
+Sentences read: 30 of 153
+
+Researcher's note: mark (bold / highlight) the phrases in these lines that
+produced your initial impression before moving to Step 2.
+
+A. Part 1 — Beginning (sentences 1–51; 10 first sentences read)
+
+[1] One dollar and eighty-seven cents.
+[2] That was all.
+[3] And sixty cents of it was in pennies.
+[4] Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one’s cheeks burned with the silent imputation of parsimony that such close dealing implied.
+[5] Three times Della counted it.
+[6] One dollar and eighty-seven cents.
+[7] And the next day would be Christmas.
+[8] There was clearly nothing to do but flop down on the shabby little couch and howl.
+[9] So Della did it.
+[10] Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.
+
+B. Part 2 — Middle (sentences 52–102; 10 random sentences read)
+
+[53] “Will you buy my hair?” asked Della.
+[58] “Give it to me quick,” said Della.
+[59] Oh, and the next two hours tripped by on rosy wings.
+[60] Forget the hashed metaphor.
+[66] It was even worthy of The Watch.
+[67] As soon as she saw it she knew that it must be Jim’s.
+[69] Quietness and value—the description applied to both.
+[86] He looked thin and very serious.
+[92] He simply stared at her fixedly with that peculiar expression on his face.
+[99] Say ‘Merry Christmas!’
+
+C. Part 3 — End (sentences 103–153; 10 last sentences read)
+
+[144] I sold the watch to get the money to buy your combs.
+[145] And now suppose you put the chops on.”
+[146] The magi, as you know, were wise men—wonderfully wise men—who brought gifts to the Babe in the manger.
+[147] They invented the art of giving Christmas presents.
+[148] Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication.
+[149] And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house.
+[150] But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest.
+[151] Of all who give and receive gifts, such as they are wisest.
+[152] Everywhere they are wisest.
+[153] They are the magi.
+
+(O. Henry, “The Gift of the Magi”)

@@ -1,0 +1,30 @@
+PROMPT
+
+B. Prompt to the LLM (model, version, date and settings are recorded in the README):
+
+[WORKED EXAMPLE — rewrite the research focus and the four dimensions so that they come from YOUR initial impression in Step 2. Keep the structure: purpose -> dimensions with sub-types -> extraction rules -> output format.]
+
+You are assisting a literary researcher. The attached text is O. Henry's short story "The Gift of the Magi" (1905).
+
+To operationalize the analysis of the movement from a market economy of counting and selling to a gift economy of sacrifice, extract from the entire textual corpus all lexical items and multi-word expressions that function semantically within four analytically distinct but interrelated dimensions:
+
+(a) quantification and money — prices, sums, wages, counting, calculation, saving, and every number used to measure value or time;
+(b) commodity and exchange — buying, selling, shops, merchants, goods, payment, and any expression that turns a person's body or possession into something with a price;
+(c) treasure and possession — the objects the couple own, desire or receive (hair, watch, chain, combs, heirloom), and the images of royal or legendary wealth used to measure them;
+(d) gift, sacrifice and affect — giving, presents, love, devotion, prayer, tears, joy, wisdom and foolishness, and expressions of what the characters are willing to lose for each other.
+
+Extraction rules:
+1. Be exhaustive rather than selective; cover the full length of the text without privileging any single section.
+2. Preserve the original lexical form of each item exactly as it appears in the text (same spelling, same word order). Do not paraphrase, summarise or invent items.
+3. An item may belong to more than one dimension; list it under each one it serves.
+4. For every item, give the full sentence in which it occurs, copied exactly, so that the extraction can be verified against the text.
+5. Do not interpret or comment. Return only the JSON.
+
+The output must be structured in JSON format, enabling transparent inspection, reproducibility and computational analysis, using exactly this schema:
+
+{
+  "quantification_money":   [ {"item": "<exact words>", "sentence": "<exact sentence>"} ],
+  "commodity_exchange":     [ {"item": "<exact words>", "sentence": "<exact sentence>"} ],
+  "treasure_possession":    [ {"item": "<exact words>", "sentence": "<exact sentence>"} ],
+  "gift_sacrifice_affect":  [ {"item": "<exact words>", "sentence": "<exact sentence>"} ]
+}
